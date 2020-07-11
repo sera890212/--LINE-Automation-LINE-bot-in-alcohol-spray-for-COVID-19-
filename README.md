@@ -69,12 +69,40 @@ Its functions are as follows:
 
 1.Automatic induction spray. 
 
-2.Automatic notification system:  
+2.Automatic notification system:
+
 -Alcohol level: notifies the user when the current alcohol leven. 
+
 -Anti-theft mechanism: notifies the user immediately when the alcohol bottle is moved. 
+
 -Battery level: notifies users of the current battery level.
 
 3.The administrator can query the status of multiple alcohol bottles with one click:
+
 -Alcohol level inquiry.
+
 -Anti-theft mechanism: whether the alcohol bottle is still in place. 
+
 -Battery inquiry: the remaining power of the power bank that provides electricity.
+
+Hardware and software applications:
+
+1. Arduino
+
+Arduino itself is a set of program development environment software, which is equipped with a circuit board with I/O function, which can be programmed by the computer and burned to the Arduino development board.
+
+2.LineBot
+
+The team connects the Arduino control board to Wi-Fi and uses the 7697 development board with built-in Wi-Fi and Bluetooth. The team combines the Arduino system with LineBot to send messages to LINE.
+
+3.Ultrasonic sensor
+
+It is composed of ultrasonic transmitter, receiver and control circuit. It can accurately detect the object and distance by using the characteristics that ultrasonic wave is not easy to affect the temperature and the moving speed of objects.
+
+4.nine-axis acceleration sensor
+
+When the direction of the object's movement is not known, the nine-axis acceleration sensor is used to detect the acceleration signal. It has the characteristics of small size and light weight. It can fully and accurately reflect the movement nature of the object. Anti-theft effect.
+
+5.Servo motor
+
+The servo motor is a controllable rotary motor, which controls the current, speed and position through the driver. It has the characteristics of high precision, low noise, high response and high instantaneous output.
