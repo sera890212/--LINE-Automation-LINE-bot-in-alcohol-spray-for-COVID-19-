@@ -61,6 +61,8 @@ Arduino本身為一套程式開發環境軟體，其搭配具有I/O功能的電�
 
 伺服馬達為可控制的旋轉馬達，透過驅動器進行電流、速度、位置控制，具有高精度、低噪音、高響應、高瞬間輸出等特點。
 
+Developer:LAI,YI-YUN;XU,ZI-YUE;XIE,MIN-SHAO;WU,PEI-SHAN
+Major Professor:CHEN,WHAI-EN	
 
 In response to the impact of the new coronary pneumonia epidemic, the team developed a set of automated intelligent alcohol sprays. 
 These alcohol sprays feature LINE bot functions, and can be used by individuals, families, schools, companies, public places and more.
