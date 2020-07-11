@@ -1,5 +1,4 @@
 開發者:賴以芸、許子岳、謝旻劭、吳佩珊
-
 指導教授:陳懷恩 教授
 
 因應新冠肺炎疫情影響，
@@ -25,9 +24,9 @@ These alcohol sprays feature LINE bot functions, and can be used by individuals,
 Multiple alcohol bottles can be managed at the same time using LINE.
 Its functions are as follows: 
 
-1. Automatic induction spray. 
+1.Automatic induction spray. 
 
-2. Automatic notification system:  
+2.Automatic notification system:  
 -Alcohol level: notifies the user when the current alcohol leven. 
 -Anti-theft mechanism: notifies the user immediately when the alcohol bottle is moved. 
 -Battery level: notifies users of the current battery level.
