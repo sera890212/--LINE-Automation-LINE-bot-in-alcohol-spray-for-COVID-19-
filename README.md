@@ -87,7 +87,7 @@ Its functions are as follows:
 
 Hardware and software applications:
 
-1. Arduino
+1.Arduino
 
 Arduino itself is a set of program development environment software, which is equipped with a circuit board with I/O function, which can be programmed by the computer and burned to the Arduino development board.
 
